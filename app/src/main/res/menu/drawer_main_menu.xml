@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:background="@drawable/gradient1">
+    <group android:checkableBehavior="single"
+      >
+        <item android:title="@string/os"
+            android:id="@+id/id_os"
+            android:icon="@drawable/oss"
+            />
+       <item android:title="@string/opg"
+           android:icon="@drawable/os"
+           android:id="@+id/id_opg"/>
+        <item android:title="@string/prd"
+            android:id="@+id/id_prd"
+            android:icon="@drawable/dopr"
+            />
+        <item android:title="@string/cy"
+            android:id="@+id/id_cy"
+            android:icon="@drawable/ob"
+            />
+        <item android:title="@string/prr"
+            android:id="@+id/id_prr"
+            android:icon="@drawable/racled"
+            />
+        <item android:title="@string/pr"
+            android:id="@+id/id_pr"
+            android:icon="@drawable/ved"
+
+            />
+        <item android:title="@string/bl"
+            android:id="@+id/id_bl"
+            android:icon="@drawable/yliki"
+            />
+
+        <item android:title="@string/oo"
+            android:id="@+id/id_oo"
+
+            />
+
+    </group>
+
+</menu>

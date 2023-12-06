@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Inspectorr</string>
+    <string name="os"> Осмотр места происшествия</string>
+    <string name="opg"> Организация осмотра места </string>
+    <string name="prd">Действия при осмотре места </string>
+    <string name="cy">Протокол осмотра места </string>
+    <string name="prr">Изготовление схем происшествия</string>
+    <string name="pr">Средства,используемые </string>
+    <string name="bl">Обнаружение и изъятие следов</string>
+    <string name="oo">О программе</string>
+
+
+</resources>
